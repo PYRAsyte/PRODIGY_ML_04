@@ -1,0 +1,28 @@
+{
+    "timestamp": "20250628_130944",
+    "model_architecture": "Advanced CNN with Residual Connections",
+    "input_shape": [
+        128,
+        128,
+        1
+    ],
+    "num_classes": 10,
+    "class_names": [
+        "01_palm",
+        "02_l",
+        "03_fist",
+        "04_fist_moved",
+        "05_thumb",
+        "06_index",
+        "07_ok",
+        "08_palm_moved",
+        "09_c",
+        "10_down"
+    ],
+    "test_accuracy": 0.859,
+    "total_parameters": 2919946,
+    "training_epochs": 23,
+    "best_val_accuracy": 1.0,
+    "final_train_accuracy": 0.9977343678474426,
+    "final_val_accuracy": 0.9996874928474426
+}

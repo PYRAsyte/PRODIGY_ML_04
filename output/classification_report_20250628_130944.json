@@ -1,0 +1,75 @@
+{
+    "01_palm": {
+        "precision": 0.7025316455696202,
+        "recall": 0.8325,
+        "f1-score": 0.7620137299771167,
+        "support": 400
+    },
+    "02_l": {
+        "precision": 1.0,
+        "recall": 0.9175,
+        "f1-score": 0.9569752281616688,
+        "support": 400
+    },
+    "03_fist": {
+        "precision": 1.0,
+        "recall": 0.2575,
+        "f1-score": 0.4095427435387674,
+        "support": 400
+    },
+    "04_fist_moved": {
+        "precision": 0.6150943396226415,
+        "recall": 0.815,
+        "f1-score": 0.7010752688172043,
+        "support": 400
+    },
+    "05_thumb": {
+        "precision": 0.9191616766467066,
+        "recall": 0.7675,
+        "f1-score": 0.8365122615803814,
+        "support": 400
+    },
+    "06_index": {
+        "precision": 0.9950248756218906,
+        "recall": 1.0,
+        "f1-score": 0.9975062344139651,
+        "support": 400
+    },
+    "07_ok": {
+        "precision": 0.9900990099009901,
+        "recall": 1.0,
+        "f1-score": 0.9950248756218906,
+        "support": 400
+    },
+    "08_palm_moved": {
+        "precision": 0.8565310492505354,
+        "recall": 1.0,
+        "f1-score": 0.922722029988466,
+        "support": 400
+    },
+    "09_c": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 400
+    },
+    "10_down": {
+        "precision": 0.7707129094412332,
+        "recall": 1.0,
+        "f1-score": 0.8705114254624593,
+        "support": 400
+    },
+    "accuracy": 0.859,
+    "macro avg": {
+        "precision": 0.8849155506053616,
+        "recall": 0.859,
+        "f1-score": 0.8451883797561919,
+        "support": 4000
+    },
+    "weighted avg": {
+        "precision": 0.8849155506053618,
+        "recall": 0.859,
+        "f1-score": 0.8451883797561919,
+        "support": 4000
+    }
+}
